@@ -20,7 +20,7 @@ Clona el repositorio:
 
 ```bash
 git clone https://github.com/R3KT00YT/vulnscan_gui.py.git
-cd VulnScanPro
+cd vulnscan_gui.py
 ```
 
 Instala las dependencias:
@@ -109,4 +109,5 @@ Este escáner solo simula pruebas.
 No realizar ataques reales sin autorización.
 
 Herramienta destinada a demostraciones,
+
 
