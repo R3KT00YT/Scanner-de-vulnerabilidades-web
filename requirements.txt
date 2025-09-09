@@ -1,0 +1,12 @@
+# Librerías necesarias para VulnScanPro Hackathon Edition
+
+# Cliente OpenAI para generar resúmenes con IA
+openai==1.31.0
+
+# Otras librerías estándar incluidas en Python (no requieren instalación):
+# - tkinter (interfaz gráfica)
+# - winsound (sonidos en Windows)
+# - urllib.parse (manejo de URLs)
+# - datetime (fechas y horas)
+# - threading (hilos)
+# - os, re (funciones del sistema y expresiones regulares)
