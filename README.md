@@ -1,4 +1,4 @@
-# VulnScanPro - Hackathon Edition
+# vulnscan_gui.py - Hackathon Edition
 
 **Escáner web seguro y profesional para demostraciones.**
 
@@ -19,7 +19,7 @@
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/VulnScanPro.git
+git clone https://github.com/R3KT00YT/vulnscan_gui.py.git
 cd VulnScanPro
 ```
 
@@ -109,3 +109,4 @@ Este escáner solo simula pruebas.
 No realizar ataques reales sin autorización.
 
 Herramienta destinada a demostraciones,
+
